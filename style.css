@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+}
+
+svg {
+  height: 100vh;
+  flex: 1;
+}
+
+#container {
+  display: flex;
+}
